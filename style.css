@@ -266,7 +266,7 @@ body{
     padding: 10px 300px;
     border: 0.1px solid rgb(221, 219, 219);
     font-size: 14px;
-    color: rgb(252, 253, 253);
+    font-weight: bold;
     background-color: white;
     margin-bottom: 25px;
 }
@@ -312,7 +312,7 @@ body{
     padding: 15px 300px 15px 50px;
     border: 1px solid rgb(221, 219, 219);
     border-radius: 7px 0px 0px 7px;
-    color: rgb(223, 220, 220);
+    font-weight: bold;
     border-right: none;
     width: 200px;
     font-size: 14px;
